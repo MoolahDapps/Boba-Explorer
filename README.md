@@ -2,7 +2,7 @@
 
 <!-- project logo w/ quick links -->
 <p align="center">
- ![unknown (5) (1)](https://user-images.githubusercontent.com/76135906/169721255-a5840a52-48b7-4196-838d-2edc21317977.png)
+ (https://user-images.githubusercontent.com/76135906/169721255-a5840a52-48b7-4196-838d-2edc21317977.png)
 
 https://bobascan.netlify.app/
 
@@ -10,7 +10,7 @@ https://bobascan.netlify.app/
 ## About The Project
 
 [Boba Blockchain Explorer](https://bobascan.netlify.app/) is a minimal block explorer for the Boba Blockchain.
-![unknown (4) (1)](https://user-images.githubusercontent.com/76135906/169721257-4c480122-6707-450c-bf5f-a1659224713e.png)
+(https://user-images.githubusercontent.com/76135906/169721257-4c480122-6707-450c-bf5f-a1659224713e.png)
 
 https://bobascan.netlify.app/
 
